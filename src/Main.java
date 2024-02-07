@@ -28,7 +28,7 @@ public class Main {
         for (int i = 1; i <= 512; i = i * 2) {
             System.out.println(i);
         }
-        System.out.println("Задание 8,9");
+        System.out.println("Задание 8;9");
         int salary = 29000;
         int total = 0;
         for (int i = 1; i <= 12; i++) {
